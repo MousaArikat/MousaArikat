@@ -1,3 +1,4 @@
+<img src="https://github.com/MousaArikat/MousaArikat/blob/main/github-thumbnail.png" />
 <h1 align="center">Hi, I'm Mousa 👋</h1>
 
 <p align="center">
